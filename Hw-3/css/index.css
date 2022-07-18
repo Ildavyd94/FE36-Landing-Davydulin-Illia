@@ -1,5 +1,7 @@
 @import url(../css/portfolio.css);
 @import url(../css/pricing.css);
+@import url(../css/import.css);
+
 
 *{
 padding: 0;
@@ -22,6 +24,12 @@ color: #212121;
 text-transform: uppercase;
 text-align: center;
 margin-bottom: 34px;
+font-weight: 400;
+}
+
+html {
+    font-family: 'Raleway', 'Open Sans' sans-serif;
+
 }
 
 
