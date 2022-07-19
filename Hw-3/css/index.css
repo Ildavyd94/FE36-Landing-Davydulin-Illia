@@ -18,13 +18,14 @@ padding: 0 15px;
 }
 
 .title {
-height: 42px;
+line-height: 42px;
 font-size: 36px;
 color: #212121;
 text-transform: uppercase;
 text-align: center;
 margin-bottom: 34px;
 font-weight: 400;
+font-family: 'Raleway';
 }
 
 html {
