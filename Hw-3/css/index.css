@@ -1,4 +1,7 @@
 @import url(../css/portfolio.css);
+@import url(../css/pricing.css);
+@import url(../css/import.css);
+
 
 *{
 padding: 0;
@@ -14,31 +17,26 @@ margin: auto;
 padding: 0 15px;
 }
 
+.div {
+    display: block;
+}
+
 .title {
-height: 42px;
+line-height: 42px;
 font-size: 36px;
 color: #212121;
 text-transform: uppercase;
 text-align: center;
 margin-bottom: 34px;
+font-weight: 400;
+font-family: 'Raleway';
 }
 
-.portfolio__sign {
-    margin-top: 34px;
-    border-top: #E72424;
-    background-color: #E72424;
-    width: 64px;
-    height: 2px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto
-    }
+html {
+    font-family: 'Raleway', 'Open Sans' sans-serif;
 
-.portfolio__text{
-    text-align: center;
-    color: #86878B;
-    margin-top: 34px;
-    margin-bottom: 68px; 
 }
+
+
 
 
