@@ -17,6 +17,10 @@ margin: auto;
 padding: 0 15px;
 }
 
+.div {
+    display: block;
+}
+
 .title {
 line-height: 42px;
 font-size: 36px;
