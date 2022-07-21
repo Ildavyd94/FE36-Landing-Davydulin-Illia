@@ -1,0 +1,58 @@
+.axure {
+  padding: 50px 0 50px;
+}
+
+.axure_title {
+  height: 42px;
+  font-size: 36px;
+  color: #212121;
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 34px;
+  font-weight: 400;
+  font-family: "Raleway";
+  font-weight: 400;
+}
+.wrap {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 -15px;
+  flex-wrap: wrap;
+}
+.line {
+  margin-top: 34px;
+  border-top: #e72424;
+  background-color: #e72424;
+  width: 64px;
+  height: 2px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.axure_text {
+  text-align: center;
+  color: #86878b;
+  margin-top: 34px;
+  margin-bottom: 68px;
+  font-family: "Open Sans";
+  font-weight: 400;
+  font-size: 14px;
+}
+.axure_wrap {
+  text-align: center;
+  color: #86878b;
+  margin-top: 34px;
+  margin-bottom: 68px;
+  font-family: "Open Sans";
+  font-weight: 400;
+  font-size: 14px;
+  
+}
+.btn {
+font-family: 'Open Sans';
+font-weight: 600;
+font-size: 15px;
+line-height: 20px;
+text-align: center;
+color: #FFFFFF;
+
+}
