@@ -7,6 +7,7 @@
 @import url(../css/footer.css);
 @import url(../css/social.css);
 @import url(../css/features.css);
+@import url(../css/contact.css);
 
 
 *{
@@ -40,10 +41,9 @@ padding: 0 15px;
     margin: 34px auto;
   }
 
-html {
-    font-family: 'Raleway', 'Open Sans' sans-serif;
-
-}
+  html {
+    font-family: 'Open Sans', 'Raleway', 'Roboto', sans-serif;
+  }
 
 h3{
     font-size: 20px;

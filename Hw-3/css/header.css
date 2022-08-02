@@ -39,21 +39,21 @@
   justify-content: space-between;
   flex-wrap: wrap;
 }
-.navigation_list--item {
+.navigation_list-item {
   margin: 5px;
 }
-.navigation_list--item a {
+.navigation_list-item a {
   text-transform: capitalize;
   font-size: 15px;
   font-weight: 600;
   font-family: 'Open Sans';
-  color: rgba(230, 208, 233, 0.7);
+  color: rgb(255, 255, 255);
   padding: 8px 0;
 }
-.navigation_list--item a:hover {
+.navigation_list-item a:hover {
   transition: 0.5s;
   border-bottom: 1px solid rgba(255, 255, 255, 0.7);
 }
-.navigation_list--item:hover {
+.navigation_list-item:hover {
   transform: translate(0, -3px);
 }
