@@ -1,0 +1,78 @@
+.axure {
+  padding: 70px 0 40px;
+}
+.axure::after {
+  content: "";
+  display: block;
+  width: 100%;
+  height: 100%;
+  background-image: url(../img/mask.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+}
+
+.axure_title {
+  height: 42px;
+  font-size: 36px;
+  color: #ffffff;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: 400;
+  font-family: "Raleway";
+  font-weight: 400;
+  margin: 0 auto 68px;
+}
+
+.axure_title::after {
+  content: "";
+  border-top: #ffffff;
+  background-color: #ffffff;
+  width: 64px;
+  height: 2px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  margin-top: 34px;
+}
+
+.axure_text {
+  text-align: center;
+  color: rgba(255, 255, 255, 0.8);
+  margin-top: 34px;
+  margin-bottom: 68px;
+  font-family: "Open Sans";
+  font-weight: 400;
+  font-size: 14px;
+}
+.btn a {
+  text-align: center;
+  color: #86878b;
+  margin-top: 34px;
+  margin-bottom: 68px;
+  font-family: "Open Sans";
+  font-weight: 400;
+  font-size: 14px;
+}
+
+.btn {
+  width: 135px;
+  height: 42px;
+  padding: 11px 20px;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  line-height: 20px;
+  border: 1px solid #ffffff;
+  border-radius: 30px;
+  color: #ffffff;
+  font-size: 15px;
+  font-weight: 600;
+  transition: 1s;
+}
+
+.btn:hover {
+  box-shadow: 5px 10px 40px 1px rgba(0, 0, 0, 0);
+  background-color: rgba(255, 255, 255, 0.2);
+}
