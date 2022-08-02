@@ -6,7 +6,7 @@
 @import url(../css/header.css);
 @import url(../css/footer.css);
 @import url(../css/social.css);
-
+@import url(../css/features.css);
 
 
 *{
@@ -21,10 +21,6 @@ box-sizing: border-box;
 max-width: 1170px;
 margin: auto;
 padding: 0 15px;
-}
-
-.div {
-    display: block;
 }
 
 .title {
